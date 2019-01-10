@@ -1,5 +1,5 @@
 FROM library/ubuntu:16.04
-MAINTAINER Rodrigo Fernandes <rodrigo.fernandes@tecnico.ulisboa.pt>
+MAINTAINER Heipi <haiheipijuan@gmail.com>
 
 #
 # Ubuntu with Oracle JDK 8
